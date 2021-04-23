@@ -33,7 +33,7 @@ export default function Home() {
       description="Welcome to the official product and developer documentation for Calendso, the open source Calendly alternative.">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );
